@@ -1,4 +1,4 @@
-<p>介紹 : 這是程式設計課程的mini_project2，策略類型的遊戲，功能包含購買防禦塔、利用戰術在土地上擺設防禦塔、音量調整、爆炸特效等。<p>
+<p>介紹 : 這是程式設計課程的mini_project_2，策略類型的遊戲，功能包含購買防禦塔、利用戰術在土地上擺設防禦塔、音量調整、爆炸特效等。<p>
 <p>內容 : 用C++ & Allegro寫，有將近50個.cpp及.h檔，主要為Bullet.cpp(子彈功能)、Plane.cpp(我方功能)、Enemy.cpp(敵方功能)、Image.cpp(設定圖片)、start.cpp(開始畫面)、WinScene.cpp(勝利畫面)、LoseScene.cpp(結束畫面)。<p>
 <p>1. menu : 點選start進入setting。<p>
 <p>2. setting : 選擇stage 1或stage 2進入遊戲，且可以調整音量音量大小。<p>
